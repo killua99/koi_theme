@@ -1,5 +1,5 @@
 name = 'koi'
-description = ''
+description = 'Koi Theme based Omega.'
 core = '7.x'
 engine = 'phptemplate'
 screenshot = 'screenshot.png'
